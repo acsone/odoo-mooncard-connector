@@ -11,7 +11,7 @@
     'author': 'Akretion',
     'website': 'http://www.akretion.com',
     'depends': ['account_invoice_import'],
-    'external_dependencies': {'python': ['unidecode', 'PIL']},
+    'external_dependencies': {'python': ['unidecode']},
     'data': [
         'data/partner.xml',
         'data/sequence.xml',
